@@ -1,0 +1,20 @@
+.notLove, .notLove2, .notLove3, .notLove4 {
+    text-align: justify;
+    font-family: 'EB Garamond', serif;  
+    font-size: 26px;
+    font-weight: bold;
+}
+body {background: url('bench.jpg') no-repeat 0% 40%;
+}
+.verse1{
+    float: left;
+    margin-right: 50px;
+    margin-left: 300px;
+}
+.verse2{
+    margin-left: 50px;
+}
+#nameOfVerse, .author{
+    font-family: 'Pacifico', cursive;
+    font-size: 2em;
+}
